@@ -78,6 +78,8 @@ proposal_email: "proposals-london-2018@devopsdays.org" # Put your proposal email
 sponsors:
   - id: appdynamics
     level: gold
+  - id: contino
+    level: gold
   - id: chef
     level: gold
   - id: elastic
