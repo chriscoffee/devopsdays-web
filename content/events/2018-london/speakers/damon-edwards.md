@@ -1,7 +1,7 @@
 +++
 Title = "Damon Edwards"
 Twitter = "damonedwards"
-image = "damon-edwards.jpg"
+image = "damon-edwards.png"
 type = "speaker"
 linktitle = "damon-edwards"
 +++

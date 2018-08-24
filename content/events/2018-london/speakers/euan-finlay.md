@@ -1,7 +1,7 @@
 +++
 Title = "Euan Finlay"
 Twitter = "efinlay24"
-image = "euan-finlay.jpeg"
+image = "euan-finlay.png"
 type = "speaker"
 linktitle = "euan-finlay"
 +++

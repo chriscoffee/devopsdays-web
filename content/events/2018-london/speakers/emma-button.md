@@ -1,7 +1,7 @@
 +++
 Title = "Emma Button"
 Twitter = "growerofawesome"
-image = "emma-button.jpg"
+image = "emma-button.png"
 type = "speaker"
 linktitle = "emma-button"
 

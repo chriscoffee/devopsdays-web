@@ -1,7 +1,7 @@
 +++
 Title = "Markos Rendell"
 Twitter = "markosrendell"
-image = "markos-rendell.jpg"
+image = "markos-rendell.png"
 type = "speaker"
 github = "kramos"
 linktitle = "markos-rendell"

@@ -2,7 +2,7 @@
 Title = "Jeff Sussna"
 Website = "https://www.sussna-associates.com/"
 Twitter = "jeffsussna"
-image = "jeff-sussna.jpg"
+image = "jeff-sussna.png"
 type = "speaker"
 linktitle = "jeff-sussna"
 +++

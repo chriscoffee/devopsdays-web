@@ -1,7 +1,7 @@
 +++
 Title = "Louise Paling"
 Twitter = "short_louise"
-image = "louise-paling.jpg"
+image = "louise-paling.png"
 type = "speaker"
 linktitle = "louise-paling"
 +++

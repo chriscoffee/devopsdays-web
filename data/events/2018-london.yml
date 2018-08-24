@@ -88,6 +88,8 @@ sponsors:
     # Silver
   - id: altoros
     level: silver
+  - id: accenture
+    level: silver
   - id: datadog
     level: silver
   - id: dxw
@@ -95,6 +97,8 @@ sponsors:
   - id: elastic
     level: silver
   - id: engineerbetter
+    level: silver
+  - id: googlecloud
     level: silver
   - id: logz
     level: silver
