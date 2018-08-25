@@ -37,8 +37,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: program
   - name: speakers
   - name: sponsor
-  - name: contact
+  - name: accessibility
   - name: conduct
+  - name: contact
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -122,12 +123,12 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: evening
-    label: Evening Event
-    max: 1
-  - id: platinum
-    label: Platinum
-    max: 1
+  # - id: evening
+  #   label: Evening Event
+  #   max: 1
+  # - id: platinum
+  #   label: Platinum
+  #   max: 1
   - id: gold
     label: Gold
     max: 7
