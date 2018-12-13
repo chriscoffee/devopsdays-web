@@ -34,7 +34,7 @@ Description = "Sponsor DevOpsDays London 2019"
               <center>Gold</center>
             </th>
             <th scope="col">
-              <center>Platinum<sup><a href="#1">1</a></sup></center>
+              <center>Platinum</center>
             </th>
           </tr>
         </thead>
@@ -132,14 +132,14 @@ education, government, and consulting.</p>
       <hr/>
       <ul class="list-unstyled">
         <li>
-          <p><small><a id="1">1</a>. Our Platinum Inclusivity sponsorship money will be put towards additional elements that make our event more  inclusive. We will offer 1 Platinum Sponsorship packages and funds from these will go towards offering childcare, sign  language / closed captioning and distribution of 50 free tickets to groups that support under-represented people in tech.</small></p>
+            <p><small><a id="1">1</a>. Our Platinum Inclusivity sponsorship money will be put towards additional elements that make our event more  inclusive such as offering childcare, sign  language / closed captioning and distribution of free tickets to groups that support under-represented people in tech.</small></p>
         </li>
         <li>
           <p><small><a id="2">2</a>. Sponsors will be able to locate stands close to the main conference room and the catering space, for further details of layout of venue please contact us.</small></p>
         </li>
-        <!--<li>
-          <p><small><a id="3">3</a>. A one-minute presentation to the audience is available for Platinum, the Evening Event and Gold packages only.</small></p>
-        </li>-->
+        <li>
+          <p><small><a id="3">3</a>. A one-minute presentation to the audience is available for Platinum and Gold packages only.</small></p>
+        </li>
       </ul>
     </div>
     </div>
